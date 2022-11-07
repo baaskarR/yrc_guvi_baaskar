@@ -1,0 +1,12 @@
+.stitle {
+    text-align: center;
+    color: blue;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.btn-signup{
+    color: #FFFFFF;
+    background-color: #8FBC8F;
+    font-size: larger;
+}
