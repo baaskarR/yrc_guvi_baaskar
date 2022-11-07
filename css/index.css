@@ -1,0 +1,29 @@
+.register{
+width: 200px;
+height: 50px;
+font-size: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: blueviolet;
+    margin-top: 400px;
+    margin-left: 480px;
+    margin-bottom: 500px;
+    margin-right: 40px;
+}
+.ptitle{
+    width: 20px;
+height: 500x;
+font-size: 75px;
+text-emphasis-color: white;
+    
+}
+.login{
+width: 200px;
+height: 50px;
+font-size: 20px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color:hotpink;
+    margin-top: 400px;
+    margin-left: 480px;
+    margin-bottom: 500px;
+    margin-right: 80px;
+}
