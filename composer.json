@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mongodb/mongodb": "1.5.2",
+        "predis/predis": "2.0.3"
+    }
+}
